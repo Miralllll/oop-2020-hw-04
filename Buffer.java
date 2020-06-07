@@ -8,6 +8,5 @@ import java.util.concurrent.*;
 */
 public class Buffer {
 	public static final int SIZE = 64;
-	
-	// YOUR CODE HERE
+	// My BlockingQueue is in Bank class
 }
